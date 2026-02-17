@@ -1,0 +1,10 @@
+
+COMPILER                                            	                    INTERPRETER
+
+Compiler takes entire program as input                       	Interpreter takes single instruction as input
+Intermediate object code is generated	                        No Intermediate object code is generated
+Conditional control statements execute faster	                Conditional control statements are slower
+Memory Requirement is More	                                Memory Requirement is Less
+Program need not be compiled every time	                        Every time program is converted
+Errors after entire program	                                Errors per instruction
+Example: C compiler	                                        Example: Python
